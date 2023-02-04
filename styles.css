@@ -1,0 +1,47 @@
+body {
+  width: 500px;
+  margin: 0 auto;
+  border: solid 2px black;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 10px;
+  padding-top: 4px;
+  padding-bottom: 15px;
+  margin-top: 20px;
+  border-bottom: solid 1px black;
+}
+
+.dp1 {
+  border-radius: 100%;
+  margin-right: 25px;
+}
+
+.dp2 {
+  border-radius: 100%;
+  margin-left: 6px;
+  margin-top: 6px;
+}
+
+h3 {
+  margin-top: 6px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+
+p {
+  margin-top: 4px;
+  margin-left: 10px;
+}
+
+.feed {
+  display: flex;
+}
+.react {
+  padding-left: 10px;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
